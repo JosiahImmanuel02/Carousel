@@ -139,8 +139,7 @@ button {
 
 ## OUTPUT
 <img width="1032" height="527" alt="image" src="https://github.com/user-attachments/assets/9f164fb6-fd9a-4929-8126-75d9b8bb0937" />
-
-<img width="1032" height="527" alt="image" src="https://github.com/user-attachments/assets/d756e227-0e72-4b2b-9e07-1da0f9838f22" />
+<img width="1021" height="518" alt="image" src="https://github.com/user-attachments/assets/b6af5c72-cdcd-450f-9120-726865a512c1" />
 
 
 
